@@ -70,8 +70,8 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
           description:
-          •	Researching intrusion and anomaly detection methods for system measurement devices and communication networks in smart grids and microgrids to improve overall system security.
-          •	Research goals include developing a comprehensive microgrid simulation, testing varying attack types on sensor and communication networks, and developing defenses for distributed energy resources.
+          Researching intrusion and anomaly detection methods for system measurement devices and communication networks in smart grids and microgrids to improve overall system security.
+          Research goals include developing a comprehensive microgrid simulation, testing varying attack types on sensor and communication networks, and developing defenses for distributed energy resources.
 
         - title: IEEE-USA Policy Associate
           company: IEEE-USA
