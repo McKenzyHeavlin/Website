@@ -65,23 +65,21 @@ sections:
         - title: Research Assistant
           company: University of Illinois Urbana-Champaign
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Illinois
           date_start: '2023-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description:
+          •	Researching intrusion and anomaly detection methods for system measurement devices and communication networks in smart grids and microgrids to improve overall system security.
+          •	Research goals include developing a comprehensive microgrid simulation, testing varying attack types on sensor and communication networks, and developing defenses for distributed energy resources.
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: IEEE-USA Policy Associate
           company: IEEE-USA
           company_url: 'https://wise-intern.org/'
-          company_logo: ieee-usa
+          # company_logo: ieee-usa
           location: Washington, DC
           date_start: '2022-05-26'
-          date_end: '2020-08-01'
+          date_end: '2022-08-01'
           description: The WISE sponsoring societies select outstanding engineering students from among their members to participate in the nine-week WISE program in Washington, D.C. Students discover how government officials make decisions on complex technological issues, while also learning how engineers and scientists can contribute to the legislative process and regulatory decision-making. My research and policy focus is regarding how to effectively and efficiently protect America’s electrical grid from both domestic and foreign cyber attacks.
     design:
       columns: '2'
@@ -157,7 +155,7 @@ sections:
   # - block: portfolio
   #   id: projects
   #   content:
-  #     title: Projects
+  #     title: Course Projects
   #     filters:
   #       folders:
   #         - project
