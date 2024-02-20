@@ -62,12 +62,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: University of Illinois Urbana-Champaign
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Illinois
+          date_start: '2023-08-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: IEEE-USA Policy Associate
+          company: IEEE-USA
+          company_url: 'https://wise-intern.org/'
+          company_logo: ieee-usa
+          location: Washington, DC
+          date_start: '2022-05-26'
+          date_end: '2020-08-01'
+          description: The WISE sponsoring societies select outstanding engineering students from among their members to participate in the nine-week WISE program in Washington, D.C. Students discover how government officials make decisions on complex technological issues, while also learning how engineers and scientists can contribute to the legislative process and regulatory decision-making. My research and policy focus is regarding how to effectively and efficiently protect America’s electrical grid from both domestic and foreign cyber attacks.
     design:
       columns: '2'
   # - block: accomplishments
@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me with any relevant questions or opportunities related to my research and interests!
       # Contact (add or remove contact options as necessary)
       email: heavlin2@illinois.edu
       # phone: 888 888 88 88
